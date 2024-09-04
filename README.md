@@ -4,10 +4,10 @@ Welcome to my digital space! I'm a **Frontend Developer** with a passion for cra
 
 ## ✨ What I Do
 
-- **🎨 Craft pixel-perfect, responsive interfaces
-- **⚡ Build blazing-fast, optimized React applications
-- **🧩 Develop reusable components and front-end libraries
-- **🔍 Implement state management solutions (Redux, Context API)
+- 🎨 Craft pixel-perfect, responsive interfaces
+- ⚡ Build blazing-fast, optimized React applications
+- 🧩 Develop reusable components and front-end libraries
+- 🔍 Implement state management solutions (Redux, Context API)
 
 ## 🚀 My Mission
 
